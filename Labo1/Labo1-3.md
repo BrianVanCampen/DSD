@@ -5,7 +5,7 @@ We want to build an simple audio processor with the following functions
 - volume control
 - low-pass filter
 - high-pass filter
-- 
+
 ![afbeelding (1)](https://github.com/BrianVanCampen/DSD/assets/91600019/4b15da7b-58c7-4455-aa37-2ae44512dea0)
 
 
