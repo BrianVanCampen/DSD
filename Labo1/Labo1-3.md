@@ -1,4 +1,4 @@
-## Lab 1-3
+# Lab 1-3
 
 We want to build an simple audio processor with the following functions
 
